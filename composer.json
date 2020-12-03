@@ -1,0 +1,7 @@
+{
+  "require": {
+    "league/oauth2-client": "^2.5",
+    "vlucas/phpdotenv": "^5.1",
+    "stevenmaguire/oauth2-salesforce": "^2.0"
+  }
+}
